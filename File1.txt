@@ -1,9 +1,10 @@
 Heloo sbko
 Changes added with staged
 
-Change:-- to fix bug 1
-change:- by teammates on remote
+Change1:-- to fix bug 1
+change2:- by teammates on remote
 
-Change:-- to fix bug 1
-Change:--to fix bug2
+Change3:-- to fix bug 1
+Change4:--to fix bug2
+Change5:--by temamates
 
