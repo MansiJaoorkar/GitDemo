@@ -2,21 +2,23 @@ Heloo sbko
 Changes added with staged
 
 
-Change->to fix bug 1
-change->by teammates on remote
+Change->to fix bug 1.
+change->by teammates on remote.
 
-Change-> to fix bug 1
-Change->to fix bug2
-Change->by temamates
+Change-> to fix bug 1.
+Change->to fix bug2.
+Change->by temamates.
 
-Change-> to fix bug 1
-change-> by teammates on remote
+Change-> to fix bug 1.
+change-> by teammates on remote.
 
-Change-> to fix bug 1
-Change->to fix bug2
-Change->to work on CR1 and added a line
-Hello in progress
-Hello ello
+Change-> to fix bug 1.
+Change->to fix bug2.
+Change->to work on CR1 and added a line.
+Hello in progress.
+Hello ello.
 
-Hello bye
+Hello bye.
+Change->on remote by team mate
+
 
